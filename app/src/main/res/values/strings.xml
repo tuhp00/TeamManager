@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Team Manager</string>
+    <string name="title_activity_new_training">Tvorba nového tréninku</string>
+    <string name="title_activity_new_member">Tvorba nového člena</string>
+    <string name="title_activity_new_match">Tvorba nového zápasu</string>
+
+
+    <array name="match">
+        <item>Domácí zápas</item>
+        <item>Venkovní zápas</item>
+    </array>
+
+    <array name="posts">
+        <item>Brankář</item>
+        <item>Obránce</item>
+        <item>Záložník</item>
+        <item>Útočník</item>
+    </array>
+
+    <array name="penalty">
+        <item>Neomluvený zápas</item>
+        <item>Neomluvený trénink</item>
+        <item>Pozdní příchod na trénink</item>
+        <item>Pozdní příchod na zápas</item>
+        <item>Červená karta</item>
+        <item>Žlutá karta</item>
+        <item>Zvonění mobilu</item>
+        <item>Nepřipravené vybavení</item>
+        <item>Prohranné bago</item>
+        <item>Jiný důvod</item>
+    </array>
+
+
+</resources>

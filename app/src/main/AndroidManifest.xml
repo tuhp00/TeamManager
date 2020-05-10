@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tuhp00.teammanager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".match.MatchMain" />
+        <activity android:name=".money.MoneyMain" />
+        <activity android:name=".squad.SquadMain" />
+        <activity android:name=".training.TrainingMain" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".money.CashdeskInfo" />
+        <activity android:name=".money.MoneyInfo" />
+        <activity android:name=".squad.MemberInfo" />
+        <activity android:name=".training.TrainingInfo" />
+        <activity android:name=".match.MatchInfo" />
+        <activity
+            android:name=".match.NewMatch"
+            android:label="@string/title_activity_new_match"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".squad.NewMember"
+            android:label="@string/title_activity_new_member"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".training.NewTraining"
+            android:label="@string/title_activity_new_training"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

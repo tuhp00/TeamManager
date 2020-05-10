@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewJerseyNumber"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="99"
+        android:textAlignment="center"
+        android:gravity="center_vertical"
+        android:textSize="21dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginBottom="20dp"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:gravity="center_vertical"
+        android:text="Name"
+        android:textSize="21dp"
+        app:layout_constraintStart_toEndOf="@+id/textViewSurname"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewSurname"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="12dp"
+        android:gravity="center_vertical"
+        android:text="Surname"
+        android:textSize="21dp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/textViewJerseyNumber"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
