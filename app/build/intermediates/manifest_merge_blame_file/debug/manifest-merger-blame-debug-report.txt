@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tuhp00.teammanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\61481ac31c3c7debbefbfc924b6a0d40\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+11-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\61481ac31c3c7debbefbfc924b6a0d40\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\61481ac31c3c7debbefbfc924b6a0d40\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+12-->[com.google.firebase:firebase-database:16.0.4] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\61481ac31c3c7debbefbfc924b6a0d40\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+13
+14    <application
+14-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:5:5-43:19
+15        android:allowBackup="true"
+15-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\077b7e25e30ed3d9fc192d5a1d9c52ab\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:8:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:9:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:10:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:11:9-40
+24        <activity android:name="com.tuhp00.teammanager.match.MatchMain" />
+24-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:12:9-53
+24-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:12:19-50
+25        <activity android:name="com.tuhp00.teammanager.money.MoneyMain" />
+25-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:13:9-53
+25-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:13:19-50
+26        <activity android:name="com.tuhp00.teammanager.squad.SquadMain" />
+26-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:14:9-53
+26-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:14:19-50
+27        <activity android:name="com.tuhp00.teammanager.training.TrainingMain" />
+27-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:15:9-59
+27-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:15:19-56
+28        <activity android:name="com.tuhp00.teammanager.HomeActivity" />
+28-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:16:9-50
+28-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:16:19-47
+29        <activity android:name="com.tuhp00.teammanager.money.CashdeskInfo" />
+29-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:17:9-56
+29-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:17:19-53
+30        <activity android:name="com.tuhp00.teammanager.money.MoneyInfo" />
+30-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:18:9-53
+30-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:18:19-50
+31        <activity android:name="com.tuhp00.teammanager.squad.MemberInfo" />
+31-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:19:9-54
+31-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:19:19-51
+32        <activity android:name="com.tuhp00.teammanager.training.TrainingInfo" />
+32-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:20:9-59
+32-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:20:19-56
+33        <activity android:name="com.tuhp00.teammanager.match.MatchInfo" />
+33-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:21:9-53
+33-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:21:19-50
+34        <activity
+34-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:22:9-25:59
+35            android:name="com.tuhp00.teammanager.match.NewMatch"
+35-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:23:13-43
+36            android:label="@string/title_activity_new_match"
+36-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:24:13-61
+37            android:theme="@style/AppTheme.NoActionBar" />
+37-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:25:13-56
+38        <activity
+38-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:26:9-29:59
+39            android:name="com.tuhp00.teammanager.squad.NewMember"
+39-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:27:13-44
+40            android:label="@string/title_activity_new_member"
+40-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:28:13-62
+41            android:theme="@style/AppTheme.NoActionBar" />
+41-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:29:13-56
+42        <activity
+42-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:30:9-33:59
+43            android:name="com.tuhp00.teammanager.training.NewTraining"
+43-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:31:13-49
+44            android:label="@string/title_activity_new_training"
+44-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:32:13-64
+45            android:theme="@style/AppTheme.NoActionBar" />
+45-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:33:13-56
+46        <activity
+46-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:34:9-42:20
+47            android:name="com.tuhp00.teammanager.MainActivity"
+47-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:35:13-41
+48            android:configChanges="orientation|screenSize|keyboardHidden" >
+48-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:36:13-74
+49            <intent-filter>
+49-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:37:13-41:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:38:17-69
+50-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:38:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:40:17-77
+52-->C:\Users\Patrik\AndroidStudioProjects\Team Manager\app\src\main\AndroidManifest.xml:40:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\55d24b25e0cf5fe790ce60018230785f\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+56            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+56-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\55d24b25e0cf5fe790ce60018230785f\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+57            android:exported="false"
+57-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\55d24b25e0cf5fe790ce60018230785f\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\55d24b25e0cf5fe790ce60018230785f\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+59
+60        <provider
+60-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\8047c3cee3df5b26d62f59653063ed1a\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+61            android:name="com.google.firebase.provider.FirebaseInitProvider"
+61-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\8047c3cee3df5b26d62f59653063ed1a\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+62            android:authorities="com.tuhp00.teammanager.firebaseinitprovider"
+62-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\8047c3cee3df5b26d62f59653063ed1a\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+63            android:exported="false"
+63-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\8047c3cee3df5b26d62f59653063ed1a\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+64            android:initOrder="100" />
+64-->[com.google.firebase:firebase-common:16.0.3] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\8047c3cee3df5b26d62f59653063ed1a\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+65
+66        <meta-data
+66-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\99af953cc66ae56cab65a7a8be7ac2e5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+67            android:name="com.google.android.gms.version"
+67-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\99af953cc66ae56cab65a7a8be7ac2e5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+68            android:value="@integer/google_play_services_version" />
+68-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Patrik\.gradle\caches\transforms-2\files-2.1\99af953cc66ae56cab65a7a8be7ac2e5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+69    </application>
+70
+71</manifest>
