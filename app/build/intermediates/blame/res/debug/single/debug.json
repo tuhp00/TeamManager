@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_training_update.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\dialog_training_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_welcome_page.gif.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\welcome_page.gif"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_match.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\match.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_training.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\fragment_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_match.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\fragment_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score_loss.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\score_loss.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jersey.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\jersey.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_training_list.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_training_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_new_member.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_new_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_update_match.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\dialog_update_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_dialog_score.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\update_dialog_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score_draw.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\score_draw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_chat_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cashdesk_info.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_cashdesk_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_squad.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\squad.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_match_list.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_match_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_penalty_list.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_penalty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_build_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_build_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_training.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_match_info.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_match_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_money_info.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_money_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_info.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_member_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_update_penalty.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\dialog_update_penalty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_timer_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_timer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_penalty_dialog.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_penalty_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_atm_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_local_atm_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_new_match.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_new_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_member.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_new_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_money_list.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_money_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_member_list.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_member_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_new_training.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\content_new_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_training_info.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_training_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_score_win.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\score_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_training.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_new_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_update_member.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\dialog_update_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moneyicon.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable-hdpi\\moneyicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_money.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\fragment_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_squad.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\fragment_squad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_black_24dp.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\ic_group_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_dialog_money.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\update_dialog_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_match.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\layout\\activity_new_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money.xml.flat",
+        "source": "C:\\Users\\Patrik\\AndroidStudioProjects\\Team Manager\\app\\src\\main\\res\\drawable\\money.xml"
+    }
+]
